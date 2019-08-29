@@ -1,5 +1,5 @@
 {
-    "name": "common/component",
+    "name": "lzzqcommon/component",
     "description": "公共组件库",
     "type": "library",
     "license": "MIT",
