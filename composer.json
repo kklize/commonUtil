@@ -1,0 +1,19 @@
+{
+    "name": "common/component",
+    "description": "公共组件库",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Li Ze",
+            "email": "459985175@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Common\\Component\\": "src/"
+        }
+    }
+}
